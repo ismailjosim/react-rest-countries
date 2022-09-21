@@ -23,7 +23,7 @@ const Country = (props) => {
                     <p className="fw-semibold">UN Member: {unMember ? "Yes" : "No"}</p>
                     <p className="fw-semibold">start Of Week: {startOfWeek}</p>
                     <p className="fw-semibold">Country Code: {callingCodes}</p>
-                    <p className="fw-semibold">Country Code: {continents}</p>
+                    <p className="fw-semibold">continents: {continents}</p>
 
                 </div>
             </div>
